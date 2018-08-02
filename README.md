@@ -13,3 +13,4 @@ Harry Potter books and audiobooks
 ![](https://i.imgur.com/6StrBH5.png)
 
 Website: [potter.cf](http://potter.cf)
+Developer: [Gustavo Simas da Silva](gsimas.github.io)
