@@ -16,6 +16,6 @@ Website: [potter.cf](http://potter.cf)
 
 Developer: [Gustavo Simas da Silva](gsimas.github.io)
 
-Audiobooks read by [Stephen Fry](http://www.stephenfry.com/)
+Audiobooks read by: [Stephen Fry](http://www.stephenfry.com/)
 
-All Rights to [J.K. Rowling](https://www.jkrowling.com/)
+All Rights to: [J.K. Rowling](https://www.jkrowling.com/)
