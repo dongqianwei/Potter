@@ -1,6 +1,6 @@
 # ⚡Potter
 
-Harry Potter books and audiobooks
+Everything regarding harry potter.
 
 1. Philosopher's Stone (1997)
 2. Chamber of Secrets (1998)
